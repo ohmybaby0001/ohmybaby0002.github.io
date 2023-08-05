@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The personal webpage of Lian Duan"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
