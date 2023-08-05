@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the Institute of Mathematics Science of ShanghaiTech University. My research areas include arithmetic geometry, number theory, and algebraic geometry. In particular, I am interested in the connection between (l-adic) Galois representations and their application in arithmetic geometry and algebraic number theory. In addition, I am also working on some projects in algebraic geometry over finite fields and the computational aspects of all the above. 
+I am an assistant professor at the [Institute of Mathematics Science](https://ims.shanghaitech.edu.cn/ims_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research areas include arithmetic geometry, number theory, and algebraic geometry. In particular, I am interested in the connection between (l-adic) Galois representations and their application in arithmetic geometry and algebraic number theory. In addition, I am also working on some projects in algebraic geometry over finite fields and the computational aspects of all the above. 
 
 During 2019-2022, I was a postdoc at Colorado State University under the supervision of Professor Jeff Achter and Professor Rachel Pries. 
 In 2019, I completed my Ph.D at University of Massachusetts Amherst under the supervision of Professor Siman Wong. 
